@@ -1,0 +1,21 @@
+<mjml>
+  <mj-head>
+		<mj-include path="includes/header.mjml" />
+  </mj-head>
+  <mj-body background-color="#F5F5F5">
+  <mj-section background-color="transparent"></mj-section>
+	<mj-include path="includes/logo.mjml" />
+	<mj-section mj-class="header__primary">
+		<mj-column>
+			<mj-text mj-class="u-text--title">Confirm your email address</mj-text>
+			<mj-text mj-class="u-text--multi">Tap the button below to verify your account and confirm that <strong>kimi.raikkonen@gmail.com</strong> is the email address you provided during the registration process for your connected door.
+			</mj-text>
+			<mj-button mj-class="button button--primary" href="https://google.com">
+				Verify Registration
+			</mj-button>
+            <mj-text mj-class="u-text--footer">Didn't request this email? No worries! Your address may have been entered by mistake. If you ignore or delete this email, nothing further will happen.
+			</mj-text>
+		</mj-column>
+	</mj-section>
+  </mj-body>
+</mjml>
