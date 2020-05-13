@@ -12,7 +12,7 @@
   <mj-class name="u-text--code" align="left" font-size="11px" font-family="monospace" line-height="17px" font-weight="300" color="#c6c6c6" padding="10px 25px 10px 25px" container-background-color="#212121" />
 
   <!-- Button classes -->
-  <mj-class name="button" background-color="#dddddd" text-transform="uppercase" letter-spacing="2px" font-size="16px" inner-padding="14px 32px"/>
+  <mj-class name="button" background-color="#dddddd" font-size="16px" inner-padding="14px 32px"/>
   <mj-class name="button--primary" background-color="#99C221" color="white" />
   <mj-class name="button--default" background-color="#6da0bb" color="white" />
   <mj-class name="button--secondary" background-color="#00AEEF" color="white" />
